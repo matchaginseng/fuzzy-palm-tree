@@ -1,2 +1,2 @@
 # fuzzy-palm-tree
-logit lens on vit
+logit lens on vit for classification and infilling.
